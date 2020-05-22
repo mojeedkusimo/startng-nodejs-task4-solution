@@ -1,0 +1,24 @@
+{
+  "name": "startng-nodejs-task4-solution",
+  "version": "1.0.0",
+  "description": "Understanding NodeJs basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojeedkusimo/startng-nodejs-task4-solution.git"
+  },
+  "keywords": [
+    "student",
+    "tutor",
+    "admin"
+  ],
+  "author": "Mojeed Kusimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojeedkusimo/startng-nodejs-task4-solution/issues"
+  },
+  "homepage": "https://github.com/mojeedkusimo/startng-nodejs-task4-solution#readme"
+}
